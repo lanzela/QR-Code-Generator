@@ -1,5 +1,6 @@
 # QR-Code-Generator
-A QR Code Generator
+![qr](https://github.com/lanzela/QR-Code-Generator/assets/91339323/d247b3df-d7e3-413a-8e1b-bc562f8718b7)
+
 # Simple QR Code Generator
 
 This is a simple QR code generator that  uses the GoQR.me API to generate QR codes. It's a lightweight and easy-to-use tool for quickly creating QR codes for various purposes.
